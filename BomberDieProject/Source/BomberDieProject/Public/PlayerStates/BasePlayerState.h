@@ -7,7 +7,7 @@
 #include "BasePlayerState.generated.h"
 
 UCLASS()
-class STARTERTEMPLATE_API ABasePlayerState : public APlayerState
+class BOMBERDIEPROJECT_API ABasePlayerState : public APlayerState
 {
 	GENERATED_BODY()
 

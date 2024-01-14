@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class StarterTemplate : ModuleRules
+public class BomberDieProject : ModuleRules
 {
-	public StarterTemplate(ReadOnlyTargetRules Target) : base(Target)
+	public BomberDieProject(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

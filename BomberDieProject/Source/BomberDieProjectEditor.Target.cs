@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class StarterTemplateEditorTarget : TargetRules
+public class BomberDieProjectEditorTarget : TargetRules
 {
-	public StarterTemplateEditorTarget( TargetInfo Target) : base(Target)
+	public BomberDieProjectEditorTarget( TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_1;
-		ExtraModuleNames.Add("StarterTemplate");
+		ExtraModuleNames.Add("BomberDieProject");
 	}
 }

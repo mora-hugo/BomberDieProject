@@ -14,7 +14,7 @@
  * 
  */
 UCLASS()
-class STARTERTEMPLATE_API UBaseTaggedInputComponent : public UEnhancedInputComponent
+class BOMBERDIEPROJECT_API UBaseTaggedInputComponent : public UEnhancedInputComponent
 {
 	GENERATED_BODY()
 

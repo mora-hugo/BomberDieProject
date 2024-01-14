@@ -8,7 +8,7 @@
 #include "BaseGameMode.generated.h"
 
 UCLASS()
-class STARTERTEMPLATE_API ABaseGameMode : public AGameModeBase
+class BOMBERDIEPROJECT_API ABaseGameMode : public AGameModeBase
 {
 	GENERATED_BODY()
 

@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "StarterTemplate",
+			"Name": "BomberDieProject",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}

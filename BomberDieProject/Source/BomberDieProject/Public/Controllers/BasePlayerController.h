@@ -11,7 +11,7 @@
  * 
  */
 UCLASS()
-class STARTERTEMPLATE_API ABasePlayerController : public APlayerController
+class BOMBERDIEPROJECT_API ABasePlayerController : public APlayerController
 {
 	GENERATED_BODY()
 

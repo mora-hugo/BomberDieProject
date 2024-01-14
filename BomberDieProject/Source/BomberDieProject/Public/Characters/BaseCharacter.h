@@ -7,7 +7,7 @@
 #include "BaseCharacter.generated.h"
 
 UCLASS()
-class STARTERTEMPLATE_API ABaseCharacter : public ACharacter
+class BOMBERDIEPROJECT_API ABaseCharacter : public ACharacter
 {
 	GENERATED_BODY()
 

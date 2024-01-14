@@ -7,7 +7,7 @@
 #include "BaseGameInstance.generated.h"
 
 UCLASS()
-class STARTERTEMPLATE_API UBaseGameInstance : public UGameInstance
+class BOMBERDIEPROJECT_API UBaseGameInstance : public UGameInstance
 {
 	GENERATED_BODY()
 

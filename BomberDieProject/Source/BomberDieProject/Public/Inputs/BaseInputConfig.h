@@ -25,7 +25,7 @@ struct FBaseTaggedInputAction
  * 
  */
 UCLASS()
-class STARTERTEMPLATE_API UBaseInputConfig : public UDataAsset
+class BOMBERDIEPROJECT_API UBaseInputConfig : public UDataAsset
 {
 	GENERATED_BODY()
 public:

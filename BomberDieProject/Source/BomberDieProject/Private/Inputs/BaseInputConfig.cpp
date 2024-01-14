@@ -1,7 +1,7 @@
 // UnrealEngine Starter template - by TechNet 2023
 
 
-#include "StarterTemplate/Public/Inputs/BaseInputConfig.h"
+#include "Inputs/BaseInputConfig.h"
 
 const UInputAction* UBaseInputConfig::FindInputActionForTag(const FGameplayTag& InputTag) const
 {
