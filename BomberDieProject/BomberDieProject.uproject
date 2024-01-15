@@ -25,6 +25,14 @@
 		{
 			"Name": "OnlineSubsystemEOS",
 			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemNull",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineServicesEOS",
+			"Enabled": true
 		}
 	]
 }
