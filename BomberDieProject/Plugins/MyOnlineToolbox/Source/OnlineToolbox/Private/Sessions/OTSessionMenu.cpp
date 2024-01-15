@@ -13,7 +13,7 @@ void UOTSessionMenu::MenuSetup(bool AddWidgetToWiewport, bool RemoveAtTeardown)
 	if(AddWidgetToWiewport)
 		AddToViewport();
 	SetVisibility(ESlateVisibility::Visible);
-	bIsFocusable = true;
+	SetIsFocusable(true);
 
 	if(UWorld* World = GetWorld())
 	{
